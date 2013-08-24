@@ -10,7 +10,7 @@ set ic
 
 " syntax highligting
 syntax enable
-set background=dark
+set background=light
 let g:solarized_termcolors=256
 set t_Co=16 " added for chromeos crosh chroot ubuntu
 colorscheme solarized
@@ -19,8 +19,8 @@ colorscheme solarized
 " quiet pls
 set visualbell t_vb=
 
-" turn OFF line numbers
-" set nonumber ...I go back and forth on this one
+" turn ON line numbers
+set number 
 
 " 4 space softabs default
 set expandtab
