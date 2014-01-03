@@ -20,12 +20,12 @@ colorscheme solarized
 set visualbell t_vb=
 
 " turn ON line numbers
-set number 
+set number
 
 " 4 space softabs default
 set expandtab
-set ts=4
-set sw=4
+set ts=2
+set sw=2
 
 " \+n toggles the nerdtree
 map <leader>n :NERDTreeToggle<CR>
