@@ -7,6 +7,14 @@ set nobackup
 set nowb
 set noswapfile
 set ic
+""""""""""""""""""""""""""""""
+" airline
+" """"""""""""""""""""""""""""""
+" let g:airline_theme             = 'powerlineish'
+let g:airline_enable_branch     = 1
+let g:airline_enable_syntastic  = 1 
+set laststatus=2
+
 
 " syntax highligting
 syntax enable
@@ -17,7 +25,7 @@ colorscheme solarized
 
 
 " quiet pls
-set visualbell t_vb=
+set visualbell t_b=
 
 " turn ON line numbers
 set number

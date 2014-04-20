@@ -15,3 +15,4 @@ https://github.com/vim-scripts/groovy.vim.git
 https://github.com/brianleroux/vim-jsbeautify.git
 https://github.com/vim-scripts/Vim-JDE.git
 https://github.com/kien/ctrlp.vim
+https://github.com/bling/vim-airline
